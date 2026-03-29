@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 - Name: Aryan Sharma
-- Registration Number: ______
-- Branch: ______
+- Registration Number: 25BSA10066
+- Branch: CSE(Cloud computing and Automation)
 - Year: 1st Year
 
 ---
@@ -18,7 +18,7 @@ The project is divided into five tasks, each covering a specific area of digital
 ## 🧩 Task 1 – Digital Literacy Infographic
 In this task, I created a one-page infographic to explain the concept of digital literacy. The infographic covers topics such as safe internet practices, email etiquette, and useful digital tools for students. The design was created using Canva/AI tools with a focus on clarity and visual appeal.
 
-📂 Folder: task-1-/
+📂 Folder: [Task-01](https://github.com/aryansharma18115ind-lab/Digital-literacy-Vityaarthi/tree/main/Task%2001)
 
 ---
 
@@ -31,7 +31,7 @@ In this task, I created my profiles on professional platforms to build my digita
 
 These platforms will help me showcase my work, connect with professionals, and improve my technical skills over time.
 
-📂 Folder: task-2/
+📂 Folder: [Task-2](https://github.com/aryansharma18115ind-lab/Digital-literacy-Vityaarthi/tree/main/Task%2002)
 
 ---
 
@@ -44,7 +44,7 @@ I also created a Google Form titled "Digital Literacy Awareness Quiz" to test ba
 
 Screenshots of the coding challenge, form, and responses have been added.
 
-📂 Folder: task-3/
+📂 Folder: [Task-3](https://github.com/aryansharma18115ind-lab/Digital-literacy-Vityaarthi/tree/main/Task%2003)
 
 ---
 
@@ -55,7 +55,7 @@ In this task, I learned professional communication by drafting two emails:
 
 I also created a checklist of Do’s and Don’ts for responsible social media use.
 
-📂 Folder: task-4/
+📂 Folder: [Task-4](https://github.com/aryansharma18115ind-lab/Digital-literacy-Vityaarthi/tree/main/Task%2004)
 
 ---
 
@@ -64,7 +64,7 @@ In this task, I studied cybercrime related to UPI fraud and created a case study
 
 I also prepared a prevention checklist with safety tips and included official reporting channels.
 
-📂 Folder: task-5-cybercrime/
+📂 Folder: [Task-5](https://github.com/aryansharma18115ind-lab/Digital-literacy-Vityaarthi/tree/main/Task%2005)
 
 ---
 
