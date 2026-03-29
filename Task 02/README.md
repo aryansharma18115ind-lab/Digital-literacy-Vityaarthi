@@ -6,7 +6,7 @@ As part of this task, I set up my presence on multiple professional platforms to
 
 ### 🔗 Platforms I Created
 
--  [💻 GitHub Profile]((https://github.com/aryansharma18115ind-lab))
+-  [💻 GitHub Profile] ((https://github.com/aryansharma18115ind-lab))
 - [🌐 LinkedIn Profile]((https://www.linkedin.com/in/aryan-sharma-51a415378/ ))
 - [📊 Kaggle Profile]((https://www.kaggle.com/aryansh18)) 
 
